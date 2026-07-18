@@ -1,10 +1,15 @@
 # Intelligent Blog Application
 
-This project is a dynamic, full-stack web application built using the Flask web framework. It was developed to practice test-driven development (TDD) pipelines and automated backend route validation.
+This project is a dynamic, full-stack web application developed as an advanced practical project within the **Advanced Python Development Techniques** curriculum, a component of the **Microsoft Python Development Professional Certificate** program on Coursera. It was engineered to practice test-driven development (TDD) pipelines, advanced debugging workflows, and automated backend route validation.
 
 ---
 
 ## Technical Specifications and Scope
+
+### Academic and Professional Credential Context
+* Certification Program: Microsoft Python Development Professional Certificate
+* Platform Provider: Coursera
+* Course Focus: Advanced Python Development Techniques, Test-Driven Development (TDD), and Code Verification
 
 ### Backend Architecture
 * Framework: Flask (Python 3)
